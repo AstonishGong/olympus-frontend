@@ -4,6 +4,8 @@
   justify-content: center;
   align-items: center;
   overflow: hidden;
+
+  margin-bottom: 10rem; // mobile safari menu bar hides content in the bottom of the page
 }
 
 #zap-select-token-modal {

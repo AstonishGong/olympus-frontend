@@ -10,6 +10,9 @@
   overflow-y: auto;
   -ms-overflow-style: none !important; /* IE and Edge */
   scrollbar-width: none !important; /* Firefox */
+
+  margin-bottom: 10rem; // mobile safari menu bar hides content in the bottom of the page
+
   &::-webkit-scrollbar {
     display: none !important;
   }

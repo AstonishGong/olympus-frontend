@@ -6,13 +6,15 @@
   align-items: center;
   overflow: hidden;
 
+  margin-bottom: 10rem; // mobile safari menu bar hides content in the bottom of the page
+
   .rebase-timer {
     margin: 0 !important;
     line-height: 110% !important;
   }
 
   .stake-to-ohm-checkbox {
-    svg{
+    svg {
       font-size: 0.8em;
     }
   }
